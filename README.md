@@ -2,50 +2,56 @@
 
 ## 👤 About Me
 
-Hello! I'm **Tanmay Sagar**, an entrepreneur, and technologist passionate about simplifying digital experiences. I co-founded **OTPLess**, a platform that revolutionizes authentication by eliminating OTPs and providing a seamless one-tap sign-in solution using WhatsApp, Gmail, or Apple.
+Hello! I'm **Tanmay Sagar**, a **BTech CSE** student, currently pursuing my degree at **Grafic Era Hill University, Bhimtal**, and working on exciting projects in the tech world. I'm passionate about **entrepreneurship**, **product development**, and building solutions that can scale. 
 
-I have extensive experience in startup strategy, SaaS development, and product scaling. I have been a part of multiple high-growth initiatives, with my previous role as a **Founding Member at BharatPe**, where I helped drive the product development and market expansion strategies.
+I'm the **Co-Founder** of **OTPLess**, a platform that focuses on passwordless authentication, making digital experiences seamless. In addition to my entrepreneurial journey, I have worked with various teams to build and scale products, focusing on enhancing user experience and security.
+
+## 🎓 Education
+
+- **BTech in Computer Science and Engineering (CSE)**  
+  - **University:** Grafic Era Hill University, Bhimtal
+  - **Year of Completion:** 2027
+  - **Classmate:** **Aditya Pandey** - BTech CSE
 
 ## 💼 Experience
 
 ### Co-Founder | **OTPLess**
 *Dates: [Insert Start Date] – Present*
-- Developed a passwordless authentication platform that streamlines user login using WhatsApp, Gmail, and Apple.
-- Established partnerships with 2000+ clients, including major brands like BharatPe, Freo, GameZop, and CityMall.
-- Processed over **7 million authentication requests**, improving security and reducing friction in user experiences.
+- Built a passwordless authentication solution that allows users to log in with WhatsApp, Gmail, or Apple accounts.
+- Onboarded over 2,000 clients, including major players like BharatPe, Freo, and GameZop.
+- Processed over **7 million authentication requests**, improving security and user experience.
 
 ### Founding Member | **BharatPe**
 *Dates: [Insert Start Date] – [Insert End Date]*
-- Contributed to the growth of BharatPe, a leading fintech company in India.
-- Assisted in scaling product offerings and executing market expansion strategies that led to significant user growth.
+- Contributed to product scaling and market strategy for the BharatPe fintech platform.
 
 ## 🧠 Skills
 
-- **Entrepreneurship & Leadership:** Startup Management, Fundraising, Team Building, Product Vision
-- **Technology:** SaaS, Mobile & Web Development, Authentication Systems
-- **Product Development & UX/UI Design**
-- **Growth Hacking & Digital Marketing:** User Acquisition, Retention, Conversion Strategies
+- **Entrepreneurship & Leadership:** Startup Building, Fundraising, Product Vision, Team Management
+- **Technology:** SaaS, Mobile & Web Development, Authentication Solutions
+- **Digital Marketing:** User Growth, Retention, Acquisition Strategies
+- **Product Design & Development:** UX/UI Design, Product Management, Problem-Solving
 
 ## 🌍 Projects
 
 ### OTPLESS
-A passwordless authentication solution that removes the need for traditional OTPs, streamlining the login process and enhancing security. It's used by a wide array of companies, improving user experience and reducing drop-offs.
+A cutting-edge passwordless authentication system that leverages WhatsApp, Gmail, and Apple for login. It's designed to enhance user experience by eliminating OTPs and improving security.
 
 ### MSME Empowerment (Indonesia)
-Partnered with **Topindoku** to empower Indonesian MSMEs by providing passwordless login solutions, bridging the digital divide between traditional and modern business models.
+Partnered with **Topindoku** to provide OTPLESS solutions to MSMEs in Indonesia, enabling better access to digital services.
 
 ## 🏆 Achievements
 
-- Successfully onboarded over 2,000 clients on OTPLESS.
-- Led the design and development of secure authentication technologies.
-- Contributed significantly to the fintech landscape as a founding member of BharatPe.
+- Successfully launched **OTPLess**, securing 2000+ clients.
+- Played a key role in product development and scaling at **BharatPe**.
+- Building and scaling tech solutions while pursuing my BTech in CSE.
 
 ## 📬 Contact Me
 
 - **Email:** [Insert Email Address]
 - **LinkedIn:** [Tanmay Sagar LinkedIn](https://www.linkedin.com/in/tanmaysagar)
-- **Phone:** [+91 94109 15249]
+- **Phone:** [Insert Phone Number]
 
 ---
 
-Feel free to update the placeholders with actual dates, contact information, and any other details you might find relevant!
+Feel free to adjust this further with more specific dates, contact details, and any additional projects!
