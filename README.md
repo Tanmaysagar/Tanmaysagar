@@ -9,7 +9,7 @@ I'm a passionate **Computer Science Engineering** student (2nd year) with a stro
   - Python, C++, and Web Development
   - Real-world projects using AI in healthcare, automation & data analytics
 - Building a solid foundation through **NPTEL**, college projects, and self-learning
-- Sharing my knowledge and creative content on my [YouTube Channel](https://github.com/) *(link your actual channel here)*
+- Sharing my knowledge and creative content on my [YouTube Channel](https://youtube.com/@tanmaysagar09)
 
 ## 💼 Projects
 - **Graph Algorithm Simulator** – Visual tool for BFS, DFS, and Dijkstra’s algorithm
@@ -22,9 +22,9 @@ I'm a passionate **Computer Science Engineering** student (2nd year) with a stro
 - Tools: Git, VS Code, Google Colab, Jupyter Notebook
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/) *(add your actual profile link)*
-- [Instagram](https://www.instagram.com/) *(if you want to include it)*
-- Email: *yourname@email.com*
+- [LinkedIn](https://www.linkedin.com/in/tanmaysagar)
+- [Instagram](https://www.instagram.com/tanmay_asf)
+- Email: *tanmaytannu2005@gmail.com*
 
 ---
 
